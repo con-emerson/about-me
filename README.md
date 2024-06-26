@@ -1,2 +1,3 @@
 # about-me
-A repo containing something about me
+Hello, this is Emerson's repository
+
